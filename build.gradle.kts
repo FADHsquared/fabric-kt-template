@@ -6,7 +6,7 @@ plugins {
 
 base.archivesName.set(findProperty("archives_base_name").toString())
 version = findProperty("mod_version").toString()
-group = findProperty("project.maven_group").toString()
+group = findProperty("maven_group").toString()
 
 repositories {
     // Add repositories to retrieve artifacts from in here.
