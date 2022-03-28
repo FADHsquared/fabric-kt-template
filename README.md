@@ -1,14 +1,11 @@
 # Fabric Kotlin Template
 
-This is a more up-to-date Fabric Example Mod with Kotlin support. With neater Gradle DSL written in Kotlin!
+This is a more up-to-date Fabric Example Mod with Kotlin support. With neater Gradle DSL written in Kotlin!  
+More changes coming as I learn Kotlin.
 
-## Changes from the bare conversion
+---
 
-You can find my bare conversion of the Fabric Example Mod here.
-
-- Better organization
-
-More changes coming as I learn Kotlin :P
+## Original README.md from FabricMC:
 
 ## Setup
 
